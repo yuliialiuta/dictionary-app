@@ -1,8 +1,4 @@
-.App .btn {
-  display: flex;
-  justify-content: center;
-  max-width: 400px;
-  margin: 150px auto;
-  font-size: 50px;
-  background-color: blueviolet;
+.App-footer {
+  text-align: center;
+  margin: 20px 0;
 }
