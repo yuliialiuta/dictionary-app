@@ -1,4 +1,20 @@
-.App-footer {
+.App {
+  background-color: #92a9bd;
+  padding: 0;
+}
+.App-header {
   text-align: center;
-  margin: 20px 0;
+  color: #ffefef;
+}
+
+.App-header h1 {
+  font-size: 50px;
+  padding: 40px 0 10px;
+}
+
+.App-footer {
+  padding: 0 0 20px 0;
+  text-align: center;
+  color: #ffefef;
+  font-weight: bold;
 }

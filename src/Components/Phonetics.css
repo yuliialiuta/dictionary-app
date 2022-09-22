@@ -1,0 +1,22 @@
+.Phonetics {
+  padding: 15px 10px 15px 10px;
+
+  margin: 10px;
+}
+
+.Phonetics a {
+  margin: 0 10px 0 0;
+  padding: 5px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #677d8e;
+  font-weight: bold;
+  background-color: #ffefef;
+  border: 2px solid #677d8e;
+}
+
+.Phonetics a:hover {
+  transition: all 1.5ms ease-in-out;
+  color: #ffefef;
+  background-color: #677d8e;
+}

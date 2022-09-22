@@ -1,1 +1,26 @@
+.Dictionary .dictionary-input {
+  padding: 20px 20px 5px 20px;
+  border-radius: 5px;
+  color: #ffefef;
+}
 
+.Dictionary h4 {
+  margin: 5px 10px;
+}
+
+.Dictionary p {
+  margin: 0 10px;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #92a9bd;
+  background-color: #ffefef;
+  display: block;
+  margin: 0 auto;
+  color: #677d8e;
+  font-weight: 500;
+  font-size: 20px;
+}

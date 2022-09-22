@@ -1,0 +1,21 @@
+.Results > section {
+  padding: 10px 20px;
+  margin: 20px;
+  border-radius: 5px;
+  background-color: #ffefef;
+  color: #677d8e;
+  box-shadow: 0 10px 20px rgb(0 0 0/ 10%);
+}
+
+/* .Results .phonetics {
+  box-shadow: 0 10px 20px rgb(0 0 0/ 10%);
+}
+
+.Results .meanings {
+  box-shadow: 0 10px 20px rgb(0 0 0/ 10%);
+} */
+
+.Results h2 {
+  margin: 15px 17px;
+  font-weight: bold;
+}
