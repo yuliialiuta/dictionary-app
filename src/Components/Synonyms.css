@@ -1,13 +1,23 @@
 .Synonyms {
   margin: 10px 0;
   padding: 0;
+  display: flex;
+}
+
+.Synonyms strong {
+  padding: 5px 0;
+}
+
+.Synonyms ul {
+  padding: 0 10px;
+  margin: 0;
 }
 
 .Synonyms li {
   display: inline-block;
-  padding: 5px 15px;
-  margin: 5px;
+  padding: 2px 15px;
+  margin: 5px 5px 5px 0;
   color: #ffefef;
   background-color: #7c99ac;
-  border-radius: 5px;
+  border-radius: 3px;
 }

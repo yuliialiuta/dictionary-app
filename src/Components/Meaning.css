@@ -1,3 +1,7 @@
+.Meaning {
+  margin: 10px;
+}
+
 .Meaning h3 {
   margin: 15px 17px;
   font-size: 30px;
@@ -7,4 +11,12 @@
 .Meaning .meaning-box {
   margin: 0;
   padding: 5px 18px;
+}
+
+.Meaning .meaning-box div {
+  margin: 5px 0;
+}
+
+.Meaning .meaning-box .example {
+  color: #c8969f;
 }

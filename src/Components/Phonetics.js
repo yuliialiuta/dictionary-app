@@ -1,6 +1,5 @@
 import React from "react";
 import "./Phonetics.css";
-// import Img from "../play-solid.svg";
 
 export default function Phonetics(props) {
   return (
